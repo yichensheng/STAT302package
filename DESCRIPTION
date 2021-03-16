@@ -1,13 +1,13 @@
 Package: STAT302package
-Title: What the Package Does (One Line, Title Case)
+Title: The Package for STAT302 Project 3
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Sherry",
+           family = "Sheng",
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: The First R Package that Design for STAT302 Project 3.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
